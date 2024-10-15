@@ -1,0 +1,82 @@
+ body, html {
+	 height: 100%;
+	 margin: 0;
+	 font-family: "Garamond", serif;
+	 background-color: snow;
+ }
+ 
+ .topnav {
+	 background-color: burlywood;
+	 overflow: hidden;
+	 padding: 20px;
+ }
+ .topnav a {
+	 float: left;
+	 color: white;
+	 padding: 3px 80px;
+	 font-size: 17px;
+	 font-weight: bold;
+	 text-decoration: none;
+	 text-align: center;
+ }
+ .topnav a.active {
+	 text-decoration: underline;
+ }
+ 
+ .bottomnav {
+	 background-color: burlywood;
+	 overflow: hidden;
+	 position: fixed;
+	 bottom: 0;
+	 width: 10%;
+	 padding: 8px;
+ }
+ 
+ .bottomnav a {
+	 float: left;
+	 color: white;
+	 font-size: 17px;
+	 font-weight: bold;
+	 text-decoration: none;
+	 text-align: center;
+ }
+ 
+ h1 {
+	 background-color: burlywood;
+	 width: 20%;
+	 color: white;
+ }
+
+h2 {
+	text-decoration: underline dotted peru;
+}
+
+p {
+	font-size: 20px;
+	text-align: justify;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20;
+  padding: 0;
+  width: 15%;
+  background-color: snow;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  font-size: 18px;
+  padding: 18px;
+  text-decoration: none;
+  font-weight:bold;
+}
+
+li a:hover:not(.active) {
+  background-color: burlywood;
+  color: white;
+}

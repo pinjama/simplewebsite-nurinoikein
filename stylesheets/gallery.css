@@ -1,0 +1,42 @@
+ body, html {
+	 height: 100%;
+	 margin: 0;
+	 font-family: "Garamond", serif;
+	 background-color: snow;
+ }
+ 
+ h2 {
+	text-decoration: underline dotted peru;
+}
+
+footer {
+	text-align: center;
+	padding: 1px;
+	background-color:burlywood;
+	font-size: 18px;
+	font-weight: bold;
+}
+ .topnav {
+	 background-color: burlywood;
+	 overflow: hidden;
+	 padding: 20px;
+ }
+ .topnav a {
+	 float: left;
+	 color: white;
+	 padding: 3px 80px;
+	 font-size: 17px;
+	 font-weight: bold;
+	 text-decoration: none;
+	 text-align: center;
+ }
+ .topnav a.active {
+	 text-decoration: underline;
+ }
+ 	
+.paragraph {
+	text-align: center;
+	margin: 70px;
+	font-size: 20px;
+}
+	
