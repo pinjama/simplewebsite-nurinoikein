@@ -3,7 +3,7 @@
 Yksinkertainen verkkosivusto, joka on luotu käyttäen vain HTML + CSS.
 
 Verkkosivuston teemana on käsityöharrastus.
-Kieli: suomenkieli
+Kieli: suomi
 
 Sivusto on luotu kouluprojektina avoimessa ammattikorkeakoulussa ennen ICT-insinöörin opintojani.
 
