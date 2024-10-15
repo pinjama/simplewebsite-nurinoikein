@@ -1,4 +1,4 @@
-#NURINOIKEIN - Verkkosivusto
+# NURINOIKEIN - Verkkosivusto
 
 Yksinkertainen verkkosivusto, joka on luotu käyttäen vain HTML + CSS.
 
@@ -7,7 +7,8 @@ Kieli: suomenkieli
 
 Sivusto on luotu kouluprojektina avoimessa ammattikorkeakoulussa ennen ICT-insinöörin opintojani.
 
-#NURINOIKEIN - Website
+
+# NURINOIKEIN - Website
 
 A simple website created using only HTML + CSS
 
